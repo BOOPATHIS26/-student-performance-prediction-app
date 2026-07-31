@@ -156,18 +156,3 @@ This project helped me gain practical experience in:
 - Data preprocessing and feature scaling
 - Developing interactive web applications for prediction
 
----
-
-## Author
-
-**Boopathi S**
-
-Aspiring AI/ML Engineer | Java Developer
-
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/yourusername
-
----
-
-If you found this project useful, consider giving it a star.
